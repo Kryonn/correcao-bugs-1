@@ -2,6 +2,14 @@
 
 O projeto consiste no conserto de alguns bugs, visando o aprimoramento dos conceitos básicos de html e css.
 
+# Projeto
+
+Antes de ser corrigido:
+![Image](https://github.com/Kryonn/assets/image.png)
+
+Após ser corrigido:
+![Image](https://github.com/Kryonn/assets/image2.png)
+
 ## 🛠️ Construído com
 
 * HTML - Estruturação da página.
