@@ -5,10 +5,10 @@ O projeto consiste no conserto de alguns bugs, visando o aprimoramento dos conce
 # Projeto
 
 Antes de ser corrigido:
-![Image](https://github.com/Kryonn/assets/image.png)
+![Image]([https://github.com/Kryonn/assets/image.png](https://github.com/Kryonn/assets/blob/main/image.png))
 
 Após ser corrigido:
-![Image](https://github.com/Kryonn/assets/image2.png)
+![Image]([https://github.com/Kryonn/assets/image2.png](https://github.com/Kryonn/assets/blob/main/image2.png))
 
 ## 🛠️ Construído com
 
