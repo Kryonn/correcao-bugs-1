@@ -8,7 +8,7 @@ Antes de ser corrigido:
 ![Image](https://github.com/Kryonn/assets/blob/main/image.png)
 
 Após ser corrigido:
-![Image]([https://github.com/Kryonn/assets/image2.png](https://github.com/Kryonn/assets/blob/main/image2.png))
+![Image](https://github.com/Kryonn/assets/blob/main/image2.png)
 
 ## 🛠️ Construído com
 
