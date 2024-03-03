@@ -15,7 +15,7 @@ O projeto consiste no conserto de alguns bugs, visando o aprimoramento dos conce
 
 ## ✒️ Autor
 
-* **Kevin Nakashima** - [umdesenvolvedor](https://github.com/Kryonn)
+* **Kevin Nakashima** - [dev](https://github.com/Kryonn)
 
 
 
