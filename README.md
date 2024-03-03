@@ -2,7 +2,7 @@
 
 O projeto consiste no conserto de alguns bugs, visando o aprimoramento dos conceitos básicos de html e css.
 
-# Projeto
+## Projeto
 
 Antes de ser corrigido:
 ![Image](https://github.com/Kryonn/assets/blob/main/image.png)
