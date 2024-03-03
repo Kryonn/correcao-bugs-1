@@ -17,8 +17,7 @@ Após ser corrigido:
 
 ## 📈 Aprendizados
 
-* Tags(h1, strong, div, a...).
-* Uso de diferentes fontes.
+* Tags.
 * Alinhamento de elementos.
 
 ## ✒️ Autor
